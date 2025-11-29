@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2AMx90fay+E=",
+  "dgSpecHash": "pjeAZA68sik=",
   "success": true,
-  "projectFilePath": "D:\\MyDocuments\\МТУСИ\\2 курс\\2 Сем\\Практика Учебная-Производственная\\Выполнение\\Проект\\WpfAppUserInterface\\WpfAppUserInterface.csproj",
+  "projectFilePath": "D:\\GitHub\\WpfAppUserInterface\\WpfAppUserInterface.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Anton\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Anton\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyDocuments\\МТУСИ\\2 курс\\2 Сем\\Практика Учебная-Производственная\\Выполнение\\Проект\\WpfAppUserInterface\\WpfAppUserInterface.csproj": {}
+    "D:\\GitHub\\WpfAppUserInterface\\WpfAppUserInterface.csproj": {}
   },
   "projects": {
-    "D:\\MyDocuments\\МТУСИ\\2 курс\\2 Сем\\Практика Учебная-Производственная\\Выполнение\\Проект\\WpfAppUserInterface\\WpfAppUserInterface.csproj": {
+    "D:\\GitHub\\WpfAppUserInterface\\WpfAppUserInterface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyDocuments\\МТУСИ\\2 курс\\2 Сем\\Практика Учебная-Производственная\\Выполнение\\Проект\\WpfAppUserInterface\\WpfAppUserInterface.csproj",
+        "projectUniqueName": "D:\\GitHub\\WpfAppUserInterface\\WpfAppUserInterface.csproj",
         "projectName": "WpfAppUserInterface",
-        "projectPath": "D:\\MyDocuments\\МТУСИ\\2 курс\\2 Сем\\Практика Учебная-Производственная\\Выполнение\\Проект\\WpfAppUserInterface\\WpfAppUserInterface.csproj",
+        "projectPath": "D:\\GitHub\\WpfAppUserInterface\\WpfAppUserInterface.csproj",
         "packagesPath": "C:\\Users\\Anton\\.nuget\\packages\\",
-        "outputPath": "D:\\MyDocuments\\МТУСИ\\2 курс\\2 Сем\\Практика Учебная-Производственная\\Выполнение\\Проект\\WpfAppUserInterface\\obj\\",
+        "outputPath": "D:\\GitHub\\WpfAppUserInterface\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -84,7 +84,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
